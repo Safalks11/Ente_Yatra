@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788002784149",
+    "project_id": "ente-yatra",
+    "storage_bucket": "ente-yatra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788002784149:android:43d9d4dd0437f93aacac9c",
+        "android_client_info": {
+          "package_name": "com.safal.main_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Cifka7d64iTwiD-dVpanauNpeufDDnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
